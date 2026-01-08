@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋 I'm Mohamed Yaser
 
-<!--
-**Mohamed-Elfardy/Mohamed-Elfardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Backend Developer  
+🧠 Interested in databases, observability, and distributed systems  
+🌱 Currently preparing for **Google Summer of Code (GSoC)**  
+🔍 Actively working on issues in open source projects
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** Go, Python, SQL
+- **Databases:** PostgreSQL
+- **Tools:** Git, Docker, Linux, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Current Focus
+- Understanding pgwatch internals
+- Config upgrade flows & CLI flags
+- Improving observability tooling
+
+### 📌 Open Source
+- Contributor / Applicant: **GSoC**
+- Issues: pgwatch (Good First Issue)
+
+### 📫 Contact
+- GitHub: https://github.com/Mohamed-Elfardy
