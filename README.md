@@ -43,7 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats![](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
 ---
 
 ## 🌍 Open Source
